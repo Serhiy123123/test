@@ -1,0 +1,17 @@
+.app {
+  width: 100vw;
+  background-color: #51619b;
+  height: 100vh;
+  color: rgb(168, 201, 231);
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
